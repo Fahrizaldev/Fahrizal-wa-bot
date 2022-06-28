@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["18312576749@s.whatsapp.net","6283811034750@s.whatsapp.net"],
+    "ownerName": "Owner",
+    "instagram" : "https://instagram.com/fardev78",
+    "botName": "Sefbot-Md",
+    "footer": "WhatsApp Bot",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "gamewaktu": 90,
+    "limitCount": 1000,
+    "gcount": {
+        "prem": 35,
+        "user": 1000
+    }
+}
