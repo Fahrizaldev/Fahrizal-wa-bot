@@ -13,7 +13,7 @@
   "author": "fadlyid",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "https://github.com/adiwajshing/Baileys",
+    "@adiwajshing/baileys": "^4.2.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@vitalets/google-translate-api": "^8.0.0",
